@@ -99,17 +99,6 @@ Case 3 Results:
 - **Scalable Pipeline**: MinMax scaling for neural network compatibility
 - **Detailed Documentation**: Each notebook cell explained
 
-## File Structure
-
-```
-├── HeartDisease_detailed.ipynb    # Main notebook with explanations
-├── HeartDisease.ipynb             # Original notebook
-├── train.csv                      # Training data
-├── test.csv                       # Test data
-├── sample_submission.csv          # Submission format
-├── submission_2.csv               # Final predictions
-└── README.md                      # This file
-```
 
 ## Dependencies
 
